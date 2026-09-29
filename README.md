@@ -1,6 +1,6 @@
 # Hi there, I'm Francesco Russo 👋
 
-Computer Engineering graduate and Master's student specializing in **Artificial Intelligence Systems** at the Department of Information Engineering (**DEI**), University of Padova. 
+Computer Engineering graduate and Master's student specializing in **Artificial Intelligence** at the Department of Information Engineering (**DEI**), University of Padova. 
 
 ---
 
