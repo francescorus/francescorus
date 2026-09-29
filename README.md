@@ -30,7 +30,7 @@ Computer Engineering graduate and Master's student specializing in **Artificial 
 
 ### 📫 Connect With Me
 
-- 💼 **LinkedIn:** [Linkedin](https://www.linkedin.com/in/francesco-russo-089305227/)
+- 💼 **LinkedIn:** [My Account](https://www.linkedin.com/in/francesco-russo-089305227/)
 - 📧 **Email:** `franrus@proton.me`
 - 📍 **Location:** Venice / Padova, Italy
 
