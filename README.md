@@ -12,10 +12,10 @@ Computer Engineering graduate and Master's student specializing in **Artificial 
 
 ### 📂 Featured Repositories & Work
 
-- 📚 **[ai-msc-notes](https://github.com/francescorus/msc-unipd-computer-engineering-ai)**  
+- 📚 **[ai-msc-notes](https://github.com/francescorus/msc-unipd-computer-engineering-ai/)**  
   Comprehensive, bi-weekly synchronized lecture notes (PDFs) covering foundational and advanced AI courses at DEI (Machine Learning, Advanced Probability, Optimization).
   
-- 🌐 **[Network Traffic Optimization Models](https://github.com/francescorus/...)**  
+- 🌐 **[Network Traffic Optimization Models](https://github.com/francescorus/ixp-traffic-optimizer/)**  
   Traffic engineering and mathematical optimization models for load balancing in IXP Peering LANs. Research paper in preparation. *In Progress*
 
 - 📡 **Radio & Hardware Systems Exploration**  
